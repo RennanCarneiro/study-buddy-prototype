@@ -1,7 +1,7 @@
 "use client"
 
-import { AppSidebar } from "@/components/app-sidebar"
-import { MobileNav } from "@/components/mobile-nav"
+import { AppSidebar } from "@/components/layout/app-sidebar"
+import { MobileNav } from "@/components/layout/mobile-nav"
 import { Toaster } from "@/components/ui/toaster"
 
 interface MainLayoutProps {
